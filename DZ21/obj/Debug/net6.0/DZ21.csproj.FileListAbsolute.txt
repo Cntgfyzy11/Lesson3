@@ -1,0 +1,15 @@
+C:\Users\Эмма\Desktop\Lesson3\DZ21\bin\Debug\net6.0\DZ21.exe
+C:\Users\Эмма\Desktop\Lesson3\DZ21\bin\Debug\net6.0\DZ21.deps.json
+C:\Users\Эмма\Desktop\Lesson3\DZ21\bin\Debug\net6.0\DZ21.runtimeconfig.json
+C:\Users\Эмма\Desktop\Lesson3\DZ21\bin\Debug\net6.0\DZ21.dll
+C:\Users\Эмма\Desktop\Lesson3\DZ21\bin\Debug\net6.0\DZ21.pdb
+C:\Users\Эмма\Desktop\Lesson3\DZ21\obj\Debug\net6.0\DZ21.csproj.AssemblyReference.cache
+C:\Users\Эмма\Desktop\Lesson3\DZ21\obj\Debug\net6.0\DZ21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эмма\Desktop\Lesson3\DZ21\obj\Debug\net6.0\DZ21.AssemblyInfoInputs.cache
+C:\Users\Эмма\Desktop\Lesson3\DZ21\obj\Debug\net6.0\DZ21.AssemblyInfo.cs
+C:\Users\Эмма\Desktop\Lesson3\DZ21\obj\Debug\net6.0\DZ21.csproj.CoreCompileInputs.cache
+C:\Users\Эмма\Desktop\Lesson3\DZ21\obj\Debug\net6.0\DZ21.dll
+C:\Users\Эмма\Desktop\Lesson3\DZ21\obj\Debug\net6.0\refint\DZ21.dll
+C:\Users\Эмма\Desktop\Lesson3\DZ21\obj\Debug\net6.0\DZ21.pdb
+C:\Users\Эмма\Desktop\Lesson3\DZ21\obj\Debug\net6.0\DZ21.genruntimeconfig.cache
+C:\Users\Эмма\Desktop\Lesson3\DZ21\obj\Debug\net6.0\ref\DZ21.dll
